@@ -1,0 +1,45 @@
+		body {
+			background-color: #3605054d;
+		}
+		h1 {
+			font-size:60px;
+			color: #f7f7f7;
+		}
+		h2 {
+			font-size:30px;
+			color:#c33b6dd9; 
+			font-weight:bold; 
+			font-style:normal;
+			font-family: Arial;
+
+
+		}	
+		li {
+			font-size:20px;
+		}
+		strong {
+			color : #a15b73;
+		}
+		
+		a:link {
+		
+		text-decoration: underline;
+		}
+
+		a:visited {
+		
+		text-decoration: none;
+		}
+
+		a:hover {
+		text-decoration: underline;
+		}
+
+		a:active {
+		color: #ff0081 ;
+		text-decoration: underline;
+		}
+
+		
+
+	 
